@@ -1,0 +1,7 @@
+2024/07/03-21:23:03.121 58a0 Recovering log #232
+2024/07/03-21:23:03.253 58a0 Delete type=0 #232
+2024/07/03-21:23:03.253 58a0 Delete type=3 #230
+2024/07/03-21:23:22.368 45bc Level-0 table #237: started
+2024/07/03-21:23:22.368 45bc Level-0 table #237: 0 bytes OK
+2024/07/03-21:23:22.417 45bc Delete type=0 #235
+2024/07/03-21:23:22.417 45bc Manual compaction at level-0 from '!actors!5DX2t6LrwQZ1Pc1X' @ 72057594037927935 : 1 .. '!actors.items!wZXp13mm30Y1f9gb.wS9GsswuM0UqGzcf' @ 0 : 0; will stop at (end)

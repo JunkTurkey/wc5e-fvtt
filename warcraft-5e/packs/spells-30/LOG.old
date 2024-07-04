@@ -1,0 +1,8 @@
+2024/07/03-21:23:03.397 4080 Recovering log #239
+2024/07/03-21:23:03.494 4080 Delete type=0 #239
+2024/07/03-21:23:03.495 4080 Delete type=3 #237
+2024/07/03-21:23:22.615 45bc Level-0 table #244: started
+2024/07/03-21:23:22.615 45bc Level-0 table #244: 0 bytes OK
+2024/07/03-21:23:22.663 45bc Delete type=0 #242
+2024/07/03-21:23:22.663 45bc Manual compaction at level-0 from '!folders!Ai9UvDyDlSIj0Ak4' @ 72057594037927935 : 1 .. '!items.effects!vIWSye5nNYiEgDr2.lVKx8swB08jm6IFE' @ 0 : 0; will stop at (end)
+2024/07/03-21:23:22.663 45bc Manual compaction at level-1 from '!folders!Ai9UvDyDlSIj0Ak4' @ 72057594037927935 : 1 .. '!items.effects!vIWSye5nNYiEgDr2.lVKx8swB08jm6IFE' @ 0 : 0; will stop at (end)

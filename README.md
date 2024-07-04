@@ -1,6 +1,7 @@
 # Warcraft Heroes Handbook 3.0 compendium for FoundryVtt
 
 **Compatibility with FoundryVtt**
+
 Minimum: 10.303
 
 Verified: 12.328
